@@ -1,5 +1,3 @@
-# SDPre
-
 ## SDPre
 
 Hello World
